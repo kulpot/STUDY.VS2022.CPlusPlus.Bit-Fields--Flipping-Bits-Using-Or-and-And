@@ -310,6 +310,18 @@ doit proc			; proc -- procedure
 	;   ------------
 	;     0 0 1 0  
 
+	; ------------------------------------- Bit Fields- Flipping Bits Using Or and And ----------------------------
+	; ref link:https://www.youtube.com/watch?v=1aHULDcevFs&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=20
+
+
+
+
+
+
+
+
+
+
 
 
 
